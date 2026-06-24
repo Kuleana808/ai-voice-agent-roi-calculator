@@ -16,6 +16,7 @@ Static GitHub Pages site that helps local service businesses estimate how much r
 - Personal injury law firms
 - Orthopedic clinics
 - Plastic surgery practices
+- Fertility clinics
 - Other call-driven local businesses
 
 ## Conversion goal
@@ -50,3 +51,4 @@ Warm inbound leads via prefilled `mailto:` CTA to `leads@operator.fyi`.
 - `dermatology-consult-response-calculator.html` — dermatology-specific SEO landing page using the calculator framework
 - `orthopedic-consult-response-calculator.html` — orthopedic-specific SEO landing page using the calculator framework
 - `plastic-surgery-consult-response-calculator.html` — plastic-surgery-specific SEO landing page using the calculator framework
+- `fertility-clinic-consult-response-calculator.html` — fertility-clinic-specific SEO landing page using the calculator framework

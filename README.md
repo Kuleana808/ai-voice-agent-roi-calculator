@@ -18,6 +18,7 @@ Static GitHub Pages site that helps local service businesses estimate how much r
 - Plastic surgery practices
 - Fertility clinics
 - Oral surgery practices
+- Cosmetic dentistry practices
 - Other call-driven local businesses
 
 ## Conversion goal
@@ -38,6 +39,7 @@ Warm inbound leads via prefilled `mailto:` CTA to `leads@operator.fyi`.
 - `plumber-missed-call-calculator.html` — plumber-specific SEO landing page using the calculator framework
 - `hvac-missed-call-calculator.html` — HVAC-specific SEO landing page using the calculator framework
 - `dental-missed-call-calculator.html` — dental-specific SEO landing page using the calculator framework
+- `cosmetic-dentistry-consult-response-calculator.html` — cosmetic-dentistry-specific SEO landing page for veneers, Invisalign, implant consults, and smile-makeover lead response
 - `med-spa-missed-call-calculator.html` — med-spa-specific SEO landing page using the calculator framework
 - `electrician-after-hours-lead-calculator.html` — electrician-specific SEO landing page using the calculator framework
 - `garage-door-missed-call-calculator.html` — garage-door-company-specific SEO landing page using the calculator framework

@@ -9,6 +9,7 @@ Static GitHub Pages site that helps local service businesses estimate how much r
 - Roofers
 - Dentists
 - Med spas
+- Urgent care clinics
 - Other call-driven local businesses
 
 ## Conversion goal
@@ -23,6 +24,7 @@ Warm inbound leads via prefilled `mailto:` CTA to `leads@operator.fyi`.
 ## Files
 - `index.html` — live calculator page
 - `distribution-kit.html` — listing, community, profile, and SEO copy to distribute the calculator
+- `directory-submission-pack.html` — directory, tools-gallery, partner-resource, and public-page copy for the calculator
 - `plumber-missed-call-calculator.html` — plumber-specific SEO landing page using the calculator framework
 - `hvac-missed-call-calculator.html` — HVAC-specific SEO landing page using the calculator framework
 - `dental-missed-call-calculator.html` — dental-specific SEO landing page using the calculator framework
@@ -31,3 +33,4 @@ Warm inbound leads via prefilled `mailto:` CTA to `leads@operator.fyi`.
 - `garage-door-missed-call-calculator.html` — garage-door-company-specific SEO landing page using the calculator framework
 - `roofing-missed-call-calculator.html` — roofing-company-specific SEO landing page using the calculator framework
 - `pest-control-missed-call-calculator.html` — pest-control-company-specific SEO landing page using the calculator framework
+- `urgent-care-phone-lead-calculator.html` — urgent-care-specific SEO landing page using the calculator framework

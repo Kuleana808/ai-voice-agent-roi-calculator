@@ -35,6 +35,7 @@ Warm inbound leads via prefilled `mailto:` CTA to `leads@operator.fyi`.
 
 ## Files
 - `index.html` — live calculator page
+- `missed-call-text-back-templates.html` — public template library for manual missed-call follow-up scripts that captures workaround search intent and routes into the calculator / rollout-plan CTA
 - `distribution-kit.html` — listing, community, profile, and SEO copy to distribute the calculator
 - `voice-agent-calculator-directory.html` — public archive / directory page that links every niche calculator from one canonical URL
 - `directory-submission-pack.html` — directory, tools-gallery, partner-resource, and public-page copy for the calculator

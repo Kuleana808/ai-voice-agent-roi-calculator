@@ -12,6 +12,7 @@ Static GitHub Pages site that helps local service businesses estimate how much r
 - Urgent care clinics
 - Physical therapy clinics
 - Ophthalmology clinics
+- Dermatology clinics
 - Other call-driven local businesses
 
 ## Conversion goal
@@ -41,3 +42,4 @@ Warm inbound leads via prefilled `mailto:` CTA to `leads@operator.fyi`.
 - `chiropractic-new-patient-intake-calculator.html` — chiropractic-specific SEO landing page using the calculator framework
 - `ophthalmology-lead-response-calculator.html` — ophthalmology-specific SEO landing page using the calculator framework
 - `orthodontics-consult-response-calculator.html` — orthodontics-specific SEO landing page using the calculator framework
+- `dermatology-consult-response-calculator.html` — dermatology-specific SEO landing page using the calculator framework

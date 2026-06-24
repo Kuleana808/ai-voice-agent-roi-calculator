@@ -42,6 +42,7 @@ Warm inbound leads via prefilled `mailto:` CTA to `leads@operator.fyi`.
 - `voice-agent-calculator-directory.html` — public archive / directory page that links every niche calculator from one canonical URL
 - `directory-submission-pack.html` — directory, tools-gallery, partner-resource, and public-page copy for the calculator
 - `partner-referral-pack.html` — newsletter, consultant, community-host, and referral copy for compounding partner distribution
+- `ai-answering-service-vs-live-receptionist.html` — comparison page for owners choosing between AI answering coverage, live receptionists, and hybrid front-desk models before running the ROI math
 - `plumber-missed-call-calculator.html` — plumber-specific SEO landing page using the calculator framework
 - `hvac-missed-call-calculator.html` — HVAC-specific SEO landing page using the calculator framework
 - `dental-missed-call-calculator.html` — dental-specific SEO landing page using the calculator framework

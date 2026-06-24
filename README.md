@@ -13,6 +13,9 @@ Static GitHub Pages site that helps local service businesses estimate how much r
 - Physical therapy clinics
 - Ophthalmology clinics
 - Dermatology clinics
+- Personal injury law firms
+- Orthopedic clinics
+- Plastic surgery practices
 - Other call-driven local businesses
 
 ## Conversion goal
@@ -37,9 +40,13 @@ Warm inbound leads via prefilled `mailto:` CTA to `leads@operator.fyi`.
 - `garage-door-missed-call-calculator.html` — garage-door-company-specific SEO landing page using the calculator framework
 - `roofing-missed-call-calculator.html` — roofing-company-specific SEO landing page using the calculator framework
 - `pest-control-missed-call-calculator.html` — pest-control-company-specific SEO landing page using the calculator framework
+- `veterinary-missed-call-calculator.html` — veterinary-clinic-specific SEO landing page using the calculator framework
 - `urgent-care-phone-lead-calculator.html` — urgent-care-specific SEO landing page using the calculator framework
 - `physical-therapy-patient-intake-calculator.html` — physical-therapy-specific SEO landing page using the calculator framework
+- `personal-injury-intake-call-calculator.html` — personal-injury-law-firm-specific SEO landing page using the calculator framework
 - `chiropractic-new-patient-intake-calculator.html` — chiropractic-specific SEO landing page using the calculator framework
 - `ophthalmology-lead-response-calculator.html` — ophthalmology-specific SEO landing page using the calculator framework
 - `orthodontics-consult-response-calculator.html` — orthodontics-specific SEO landing page using the calculator framework
 - `dermatology-consult-response-calculator.html` — dermatology-specific SEO landing page using the calculator framework
+- `orthopedic-consult-response-calculator.html` — orthopedic-specific SEO landing page using the calculator framework
+- `plastic-surgery-consult-response-calculator.html` — plastic-surgery-specific SEO landing page using the calculator framework

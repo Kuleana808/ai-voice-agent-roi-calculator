@@ -39,3 +39,4 @@ Warm inbound leads via prefilled `mailto:` CTA to `leads@operator.fyi`.
 - `physical-therapy-patient-intake-calculator.html` — physical-therapy-specific SEO landing page using the calculator framework
 - `chiropractic-new-patient-intake-calculator.html` — chiropractic-specific SEO landing page using the calculator framework
 - `ophthalmology-lead-response-calculator.html` — ophthalmology-specific SEO landing page using the calculator framework
+- `orthodontics-consult-response-calculator.html` — orthodontics-specific SEO landing page using the calculator framework

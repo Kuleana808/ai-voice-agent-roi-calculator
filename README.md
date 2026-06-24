@@ -11,6 +11,7 @@ Static GitHub Pages site that helps local service businesses estimate how much r
 - Med spas
 - Urgent care clinics
 - Physical therapy clinics
+- Ophthalmology clinics
 - Other call-driven local businesses
 
 ## Conversion goal
@@ -36,3 +37,5 @@ Warm inbound leads via prefilled `mailto:` CTA to `leads@operator.fyi`.
 - `pest-control-missed-call-calculator.html` — pest-control-company-specific SEO landing page using the calculator framework
 - `urgent-care-phone-lead-calculator.html` — urgent-care-specific SEO landing page using the calculator framework
 - `physical-therapy-patient-intake-calculator.html` — physical-therapy-specific SEO landing page using the calculator framework
+- `chiropractic-new-patient-intake-calculator.html` — chiropractic-specific SEO landing page using the calculator framework
+- `ophthalmology-lead-response-calculator.html` — ophthalmology-specific SEO landing page using the calculator framework

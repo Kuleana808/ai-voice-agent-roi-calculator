@@ -21,6 +21,7 @@ Static GitHub Pages site that helps local service businesses estimate how much r
 - Cosmetic dentistry practices
 - Periodontal practices
 - Endodontic practices
+- Oral pathology practices
 - Other call-driven local businesses
 
 ## Conversion goal
@@ -44,6 +45,7 @@ Warm inbound leads via prefilled `mailto:` CTA to `leads@operator.fyi`.
 - `cosmetic-dentistry-consult-response-calculator.html` — cosmetic-dentistry-specific SEO landing page for veneers, Invisalign, implant consults, and smile-makeover lead response
 - `periodontics-implant-consult-response-calculator.html` — periodontics-specific SEO landing page for implant consults, gum-graft inquiries, LANAP/laser-perio questions, and referral-office callbacks
 - `endodontics-emergency-call-calculator.html` — endodontics-specific SEO landing page for root-canal requests, cracked-tooth emergencies, post-op pain calls, and referring-dentist callbacks
+- `oral-pathology-referral-intake-calculator.html` — oral-pathology-specific SEO landing page for biopsy consults, suspicious lesion evaluations, mucosal-disease workups, and referring-dentist callbacks
 - `med-spa-missed-call-calculator.html` — med-spa-specific SEO landing page using the calculator framework
 - `electrician-after-hours-lead-calculator.html` — electrician-specific SEO landing page using the calculator framework
 - `garage-door-missed-call-calculator.html` — garage-door-company-specific SEO landing page using the calculator framework

@@ -30,3 +30,4 @@ Warm inbound leads via prefilled `mailto:` CTA to `leads@operator.fyi`.
 - `electrician-after-hours-lead-calculator.html` — electrician-specific SEO landing page using the calculator framework
 - `garage-door-missed-call-calculator.html` — garage-door-company-specific SEO landing page using the calculator framework
 - `roofing-missed-call-calculator.html` — roofing-company-specific SEO landing page using the calculator framework
+- `pest-control-missed-call-calculator.html` — pest-control-company-specific SEO landing page using the calculator framework

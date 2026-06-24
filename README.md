@@ -32,6 +32,7 @@ Warm inbound leads via prefilled `mailto:` CTA to `leads@operator.fyi`.
 ## Files
 - `index.html` — live calculator page
 - `distribution-kit.html` — listing, community, profile, and SEO copy to distribute the calculator
+- `voice-agent-calculator-directory.html` — public archive / directory page that links every niche calculator from one canonical URL
 - `directory-submission-pack.html` — directory, tools-gallery, partner-resource, and public-page copy for the calculator
 - `partner-referral-pack.html` — newsletter, consultant, community-host, and referral copy for compounding partner distribution
 - `plumber-missed-call-calculator.html` — plumber-specific SEO landing page using the calculator framework

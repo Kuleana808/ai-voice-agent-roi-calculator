@@ -25,3 +25,4 @@ Warm inbound leads via prefilled `mailto:` CTA to `leads@operator.fyi`.
 - `distribution-kit.html` — listing, community, profile, and SEO copy to distribute the calculator
 
 - `plumber-missed-call-calculator.html` — plumber-specific SEO landing page using the calculator framework
+- `hvac-missed-call-calculator.html` — HVAC-specific SEO landing page using the calculator framework

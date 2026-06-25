@@ -66,6 +66,7 @@ Warm inbound leads via prefilled `mailto:` CTA to `leads@operator.fyi`.
 - `ophthalmology-lead-response-calculator.html` — ophthalmology-specific SEO landing page using the calculator framework
 - `orthodontics-consult-response-calculator.html` — orthodontics-specific SEO landing page using the calculator framework
 - `audiology-hearing-aid-consult-calculator.html` — audiology-specific SEO landing page for hearing-test inquiries, hearing aid consults, insurance-benefit questions, and referral callbacks
+- `hearing-test-appointment-reminder-templates.html` — audiology-specific template library for hearing-test confirmations, no-show reduction, insurance-prep reminders, voicemail fallback, and reschedule copy that routes readers into the calculator
 - `dermatology-consult-response-calculator.html` — dermatology-specific SEO landing page using the calculator framework
 - `orthopedic-consult-response-calculator.html` — orthopedic-specific SEO landing page using the calculator framework
 - `plastic-surgery-consult-response-calculator.html` — plastic-surgery-specific SEO landing page using the calculator framework

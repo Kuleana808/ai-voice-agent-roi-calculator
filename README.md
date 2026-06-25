@@ -12,6 +12,7 @@ Static GitHub Pages site that helps local service businesses estimate how much r
 - Urgent care clinics
 - Physical therapy clinics
 - Ophthalmology clinics
+- Audiology practices
 - Dermatology clinics
 - Personal injury law firms
 - Orthopedic clinics
@@ -64,6 +65,7 @@ Warm inbound leads via prefilled `mailto:` CTA to `leads@operator.fyi`.
 - `chiropractic-new-patient-intake-calculator.html` — chiropractic-specific SEO landing page using the calculator framework
 - `ophthalmology-lead-response-calculator.html` — ophthalmology-specific SEO landing page using the calculator framework
 - `orthodontics-consult-response-calculator.html` — orthodontics-specific SEO landing page using the calculator framework
+- `audiology-hearing-aid-consult-calculator.html` — audiology-specific SEO landing page for hearing-test inquiries, hearing aid consults, insurance-benefit questions, and referral callbacks
 - `dermatology-consult-response-calculator.html` — dermatology-specific SEO landing page using the calculator framework
 - `orthopedic-consult-response-calculator.html` — orthopedic-specific SEO landing page using the calculator framework
 - `plastic-surgery-consult-response-calculator.html` — plastic-surgery-specific SEO landing page using the calculator framework

@@ -48,6 +48,7 @@ Warm inbound leads via prefilled `mailto:` CTA to `leads@operator.fyi`.
 - `hvac-missed-call-calculator.html` — HVAC-specific SEO landing page using the calculator framework
 - `dental-missed-call-calculator.html` — dental-specific SEO landing page using the calculator framework
 - `pediatric-dentistry-call-conversion-calculator.html` — pediatric-dentistry-specific SEO landing page for new-patient calls, insurance questions, recall callbacks, and urgent tooth-pain lead recovery
+- `pediatric-dental-appointment-reminder-templates.html` — pediatric-dentistry-specific template library for appointment confirmations, sedation-prep reminders, insurance checks, voicemail fallback, and recall reschedule copy that routes readers into the calculator
 - `cosmetic-dentistry-consult-response-calculator.html` — cosmetic-dentistry-specific SEO landing page for veneers, Invisalign, implant consults, and smile-makeover lead response
 - `sleep-apnea-dental-consult-calculator.html` — dental-sleep-medicine-specific SEO landing page for oral appliance consults, CPAP-alternative inquiries, snoring evaluations, and physician-referral callbacks
 - `periodontics-implant-consult-response-calculator.html` — periodontics-specific SEO landing page for implant consults, gum-graft inquiries, LANAP/laser-perio questions, and referral-office callbacks

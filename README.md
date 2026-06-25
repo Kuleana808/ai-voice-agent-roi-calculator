@@ -63,6 +63,8 @@ Warm inbound leads via prefilled `mailto:` CTA to `leads@operator.fyi`.
 - `oral-pathology-referral-intake-calculator.html` — oral-pathology-specific SEO landing page for biopsy consults, suspicious lesion evaluations, mucosal-disease workups, and referring-dentist callbacks
 - `med-spa-missed-call-calculator.html` — med-spa-specific SEO landing page using the calculator framework
 - `electrician-after-hours-lead-calculator.html` — electrician-specific SEO landing page using the calculator framework
+- `auto-repair-missed-call-calculator.html` — auto-repair-shop-specific SEO landing page using the calculator framework
+- `collision-repair-estimate-follow-up-templates.html` — collision-repair-specific template library for unsold estimates, insurer callback delays, supplement approvals, deductible hesitation, parts delays, and pickup coordination that routes readers into the calculator
 - `garage-door-missed-call-calculator.html` — garage-door-company-specific SEO landing page using the calculator framework
 - `roofing-missed-call-calculator.html` — roofing-company-specific SEO landing page using the calculator framework
 - `pest-control-missed-call-calculator.html` — pest-control-company-specific SEO landing page using the calculator framework

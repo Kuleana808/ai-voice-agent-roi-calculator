@@ -74,6 +74,7 @@ Warm inbound leads via prefilled `mailto:` CTA to `leads@operator.fyi`.
 - `auto-repair-approval-follow-up-templates.html` — auto-repair-specific template library for estimate signoff, pending repair authorizations, diagnostic-to-repair approvals, and extra-work callbacks that routes readers into the calculator
 - `auto-repair-pickup-ready-notification-templates.html` — auto-repair-specific template library for final release timing, cashier handoff, payment-ready reminders, and same-day pickup coordination that routes readers into the calculator
 - `auto-repair-payment-ready-text-templates.html` — auto-repair-specific template library for invoice link follow-up, deposit reminders, declined-card recovery, and release-ready payment coordination that routes readers into the calculator
+- `auto-repair-estimate-reminder-templates.html` — auto-repair-specific template library for unsold estimates, parts approval deadlines, service-advisor callback recovery, and quote-follow-up rescue that routes readers into the calculator
 - `garage-door-missed-call-calculator.html` — garage-door-company-specific SEO landing page using the calculator framework
 - `roofing-missed-call-calculator.html` — roofing-company-specific SEO landing page using the calculator framework
 - `pest-control-missed-call-calculator.html` — pest-control-company-specific SEO landing page using the calculator framework

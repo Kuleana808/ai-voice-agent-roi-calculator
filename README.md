@@ -71,6 +71,7 @@ Warm inbound leads via prefilled `mailto:` CTA to `leads@operator.fyi`.
 - `auto-repair-maintenance-membership-reminder-templates.html` — auto-repair-specific template library for service-plan renewals, prepaid-service reactivation, inspection bundles, and recurring maintenance membership follow-up that routes readers into the calculator
 - `auto-repair-warranty-follow-up-templates.html` — auto-repair-specific template library for coverage explanations, comeback-prevention check-ins, workmanship guarantee reminders, and near-expiration warranty follow-up that routes readers into the calculator
 - `auto-repair-repair-status-update-templates.html` — auto-repair-specific template library for delayed pickup explanations, technician-progress check-ins, parts-delay reassurance, and approval-ready next-step callbacks that routes readers into the calculator
+- `auto-repair-approval-follow-up-templates.html` — auto-repair-specific template library for estimate signoff, pending repair authorizations, diagnostic-to-repair approvals, and extra-work callbacks that routes readers into the calculator
 - `garage-door-missed-call-calculator.html` — garage-door-company-specific SEO landing page using the calculator framework
 - `roofing-missed-call-calculator.html` — roofing-company-specific SEO landing page using the calculator framework
 - `pest-control-missed-call-calculator.html` — pest-control-company-specific SEO landing page using the calculator framework

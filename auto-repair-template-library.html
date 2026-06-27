@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Auto Repair Template Library | Service Reminder, Approval, Voicemail, and Pickup Text Templates</title>
+  <meta name="description" content="Searchable auto repair template library for independent shops and service centers. Browse service reminder templates, voicemail follow-up scripts, declined-work reactivation copy, approval texts, pickup-ready notifications, financing follow-up, and collision estimate workflows that lead into the AI voice agent ROI calculator." />
+  <link rel="canonical" href="https://operator.fyi/ai-voice-agent-roi-calculator/auto-repair-template-library.html" />
+  <meta property="og:title" content="Auto Repair Template Library for Independent Shops and Service Centers" />
+  <meta property="og:description" content="A compounding auto repair resource hub: reminder templates, approval follow-up, repair-status updates, pickup coordination, and collision estimate workflows that bridge into the AI voice agent calculator." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://operator.fyi/ai-voice-agent-roi-calculator/auto-repair-template-library.html" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <style>
+    :root {
+      --bg: #081120;
+      --panel: #0f1b33;
+      --line: rgba(145, 180, 255, 0.18);
+      --text: #eef4ff;
+      --muted: #a8bbdf;
+      --brand: #6ee7f9;
+      --brand-2: #2563eb;
+      --paper: #eef4ff;
+      --ink: #12243f;
+      --ink-muted: #56719e;
+      --good: #86efac;
+      --warn: #fde68a;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+      color: var(--text);
+      background:
+        radial-gradient(circle at top left, rgba(110, 231, 249, 0.16), transparent 28%),
+        linear-gradient(180deg, #07111f 0%, #0c1730 44%, #eef4ff 44%, #eef4ff 100%);
+      line-height: 1.6;
+    }
+    a { color: inherit; }
+    .wrap { width: min(1180px, calc(100% - 32px)); margin: 0 auto; }
+    .hero,
+    .section,
+    .footer { padding: 28px 0 56px; }
+    .hero { padding-top: 68px; }
+    .hero-grid,
+    .grid-2,
+    .resource-grid,
+    .signal-grid { display: grid; gap: 22px; }
+    .hero-grid { grid-template-columns: 1.08fr 0.92fr; align-items: start; }
+    .grid-2 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .resource-grid,
+    .signal-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+    .panel,
+    .callout {
+      background: rgba(12, 24, 48, 0.88);
+      border: 1px solid var(--line);
+      border-radius: 24px;
+      padding: 28px;
+      box-shadow: 0 20px 60px rgba(0, 0, 0, 0.26);
+    }
+    .card,
+    .resource-card {
+      background: #fff;
+      color: var(--ink);
+      border: 1px solid rgba(19, 37, 63, 0.08);
+      border-radius: 22px;
+      padding: 24px;
+      box-shadow: 0 16px 40px rgba(9, 22, 43, 0.08);
+    }
+    .eyebrow,
+    .tag,
+    .pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      font-size: 0.76rem;
+      font-weight: 900;
+    }
+    .eyebrow { color: var(--brand); margin-bottom: 14px; }
+    .tag,
+    .pill {
+      padding: 6px 10px;
+      border-radius: 999px;
+    }
+    .tag { background: #e8f0ff; color: #375ba7; }
+    .pill.good { background: rgba(134, 239, 172, 0.12); color: #d6ffe4; }
+    .pill.warn { background: rgba(253, 230, 138, 0.14); color: #fff0b3; }
+    h1, h2, h3, p { margin-top: 0; }
+    h1 {
+      font-size: clamp(2.5rem, 4.8vw, 5rem);
+      line-height: 0.98;
+      letter-spacing: -0.04em;
+      margin-bottom: 16px;
+      max-width: 10.5ch;
+    }
+    h2 {
+      font-size: clamp(1.95rem, 3vw, 3rem);
+      letter-spacing: -0.03em;
+      color: var(--ink);
+      margin-bottom: 12px;
+    }
+    h3 { font-size: 1.12rem; margin-bottom: 10px; }
+    .subhead { color: var(--muted); font-size: 1.08rem; max-width: 72ch; }
+    .section-lead { color: var(--ink-muted); max-width: 82ch; margin-bottom: 20px; }
+    .cta-row { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 24px; }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      text-decoration: none;
+      border-radius: 999px;
+      padding: 13px 18px;
+      font-weight: 800;
+    }
+    .btn-primary { background: linear-gradient(135deg, var(--brand-2), var(--brand)); color: #06111f; }
+    .btn-secondary { border: 1px solid var(--line); color: var(--text); }
+    .btn-light { border: 1px solid rgba(37, 99, 235, 0.16); color: var(--ink); }
+    .metric {
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      padding: 16px;
+      background: rgba(255,255,255,0.03);
+      margin-bottom: 12px;
+    }
+    .metric .value { font-size: 1.78rem; font-weight: 900; line-height: 1; margin-bottom: 6px; }
+    .card p,
+    .card li,
+    .resource-card p,
+    .resource-card li,
+    .callout p { color: var(--ink-muted); }
+    ul { margin: 0; padding-left: 18px; }
+    li + li { margin-top: 8px; }
+    .resource-card {
+      background: linear-gradient(135deg, #ffffff, #f8fbff);
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+    }
+    .resource-card .btn { margin-top: auto; align-self: flex-start; }
+    .signal-row {
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+      padding: 10px 0;
+      border-top: 1px solid rgba(19, 37, 63, 0.08);
+    }
+    .signal-row:first-of-type { border-top: 0; padding-top: 0; }
+    .footer {
+      text-align: center;
+      color: #556783;
+      font-size: 0.95rem;
+    }
+    @media (max-width: 980px) {
+      .hero-grid,
+      .grid-2,
+      .resource-grid,
+      .signal-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+  <section class="hero">
+    <div class="wrap hero-grid">
+      <div class="panel">
+        <div class="eyebrow">Searchable archive + auto repair distribution hub</div>
+        <h1>One auto repair template library for the callbacks, reminders, approvals, and pickup texts your shop keeps rebuilding by hand.</h1>
+        <p class="subhead">This page turns the auto repair slice of the AI voice agent cluster into one shareable resource hub for independent shops, multi-bay service centers, and collision operators searching for practical customer communication templates. It captures broad "auto repair templates" intent, then routes qualified operators into the AI voice agent ROI calculator once reminder volume, advisor follow-up, and status-update overhead stop scaling manually.</p>
+        <div class="cta-row">
+          <a class="btn btn-primary" href="mailto:leads@operator.fyi?subject=Auto%20Repair%20Workflow%20Plan%20from%20Template%20Library">Request an auto repair workflow plan from this library</a>
+          <a class="btn btn-secondary" href="auto-repair-missed-call-calculator.html">Open the auto repair ROI calculator</a>
+          <a class="btn btn-secondary" href="voice-agent-calculator-directory.html">Open the calculator directory</a>
+          <a class="btn btn-secondary" href="distribution-kit.html">Open the distribution kit</a>
+        </div>
+        <div class="metric">
+          <div class="value">Broader search capture</div>
+          <div>Shops search for reminder texts, estimate follow-up copy, pickup-ready notifications, and voicemail scripts earlier than they search for voice-agent software. This hub lets the cluster rank one level higher up the funnel.</div>
+        </div>
+        <div class="metric">
+          <div class="value">Monetizable hub</div>
+          <div>Every free template ladders into the same paid problem: too many callbacks, reminders, and advisor touchpoints to manage consistently without automation.</div>
+        </div>
+      </div>
+      <div class="panel">
+        <h3 style="margin-bottom:14px;">Distribution flywheel</h3>
+        <div class="metric">
+          <div class="value">Search</div>
+          <div>Capture long-tail intent around mechanic text templates, service reminders, decline recovery, pickup notifications, and estimate follow-up.</div>
+        </div>
+        <div class="metric">
+          <div class="value">Qualification</div>
+          <div>Visitors self-segment by workflow pain: inbound calls, reminders, unsold work, approvals, status updates, financing, or collision follow-up.</div>
+        </div>
+        <div class="metric">
+          <div class="value">Upgrade path</div>
+          <div>When those touchpoints stack up across advisors and bays, the obvious next step is a repeatable AI-assisted phone + message workflow, not another static script sheet.</div>
+        </div>
+        <div class="metric">
+          <div class="value">Compounding cluster</div>
+          <div>One library page makes it easier to earn links from forums, partner resource pages, directories, vendor newsletters, and local SEO assets without forcing people to choose a single narrow page first.</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <h2>Browse the auto repair template library</h2>
+      <p class="section-lead">Use this hub as the public archive for the auto repair cluster. It groups together the actual scripts shops need every day, while keeping the calculator and workflow-plan CTA close enough for buyers who want help implementing the system instead of copying more text into a spreadsheet.</p>
+      <div class="resource-grid">
+        <article class="resource-card">
+          <span class="tag">Calculator</span>
+          <h3>Auto repair missed-call calculator</h3>
+          <p>Quantifies missed service-call revenue from diagnostics, maintenance appointments, towing emergencies, and estimate callbacks.</p>
+          <a class="btn btn-light" href="auto-repair-missed-call-calculator.html">Open calculator</a>
+        </article>
+        <article class="resource-card">
+          <span class="tag">Voicemail</span>
+          <h3>Auto repair voicemail follow-up templates</h3>
+          <p>After-hours callbacks, missed-call rescue, estimate follow-up, and repair-status voicemail response scripts.</p>
+          <a class="btn btn-light" href="auto-repair-voicemail-follow-up-templates.html">Open voicemail templates</a>
+        </article>
+        <article class="resource-card">
+          <span class="tag">Service reminders</span>
+          <h3>Auto repair service reminder templates</h3>
+          <p>Overdue maintenance, inspection-due reminders, mileage triggers, and lapsed repair-order reactivation copy.</p>
+          <a class="btn btn-light" href="auto-repair-service-reminder-templates.html">Open service reminder templates</a>
+        </article>
+        <article class="resource-card">
+          <span class="tag">Declined work</span>
+          <h3>Auto repair declined-work follow-up templates</h3>
+          <p>Re-open unsold repair recommendations, deferred maintenance, budget stalls, and "not today" decisions without sounding pushy.</p>
+          <a class="btn btn-light" href="auto-repair-declined-work-follow-up-templates.html">Open declined-work templates</a>
+        </article>
+        <article class="resource-card">
+          <span class="tag">Membership renewals</span>
+          <h3>Maintenance membership reminder templates</h3>
+          <p>Renewal nudges, prepaid service-plan reactivation, inspection bundle reminders, and recurring maintenance workflow copy.</p>
+          <a class="btn btn-light" href="auto-repair-maintenance-membership-reminder-templates.html">Open membership templates</a>
+        </article>
+        <article class="resource-card">
+          <span class="tag">Warranty</span>
+          <h3>Warranty follow-up templates</h3>
+          <p>Post-repair reassurance, comeback prevention, expiring workmanship reminders, and coverage-explanation scripts.</p>
+          <a class="btn btn-light" href="auto-repair-warranty-follow-up-templates.html">Open warranty templates</a>
+        </article>
+        <article class="resource-card">
+          <span class="tag">Repair status</span>
+          <h3>Repair-status update templates</h3>
+          <p>Parts-delay notices, technician-progress updates, delayed pickup explanations, and next-step reminders.</p>
+          <a class="btn btn-light" href="auto-repair-repair-status-update-templates.html">Open status-update templates</a>
+        </article>
+        <article class="resource-card">
+          <span class="tag">Approvals</span>
+          <h3>Approval follow-up templates</h3>
+          <p>Pending authorization nudges, diagnostic-to-repair approvals, extra-work callbacks, and estimate signoff texts.</p>
+          <a class="btn btn-light" href="auto-repair-approval-follow-up-templates.html">Open approval templates</a>
+        </article>
+        <article class="resource-card">
+          <span class="tag">Pickup</span>
+          <h3>Pickup-ready notification templates</h3>
+          <p>Vehicle-ready texts, payment reminder timing, after-hours pickup coordination, and final handoff copy.</p>
+          <a class="btn btn-light" href="auto-repair-pickup-ready-notification-templates.html">Open pickup-ready templates</a>
+        </article>
+        <article class="resource-card">
+          <span class="tag">Payments</span>
+          <h3>Payment-ready text templates</h3>
+          <p>Balance-due reminders, payment-link nudges, front-desk collection timing, and release-ready communication.</p>
+          <a class="btn btn-light" href="auto-repair-payment-ready-text-templates.html">Open payment-ready templates</a>
+        </article>
+        <article class="resource-card">
+          <span class="tag">Estimates</span>
+          <h3>Estimate reminder templates</h3>
+          <p>Follow up on pending decisions, unapproved repairs, unanswered quotes, and stalled estimate-to-booking flow.</p>
+          <a class="btn btn-light" href="auto-repair-estimate-reminder-templates.html">Open estimate reminder templates</a>
+        </article>
+        <article class="resource-card">
+          <span class="tag">Diagnostics</span>
+          <h3>Diagnostic update templates</h3>
+          <p>Set expectations after inspection, explain next steps, keep customers warm during diagnosis, and tee up authorization.</p>
+          <a class="btn btn-light" href="auto-repair-diagnostic-update-templates.html">Open diagnostic update templates</a>
+        </article>
+        <article class="resource-card">
+          <span class="tag">Financing</span>
+          <h3>Financing follow-up templates</h3>
+          <p>Re-engage higher-ticket repairs when budget timing, payment plans, or application completion is slowing approval.</p>
+          <a class="btn btn-light" href="auto-repair-financing-follow-up-templates.html">Open financing templates</a>
+        </article>
+        <article class="resource-card">
+          <span class="tag">After-hours</span>
+          <h3>After-hours drop-off templates</h3>
+          <p>Capture overnight key-drop instructions, missed evening calls, next-morning intake, and off-hours handoff flow.</p>
+          <a class="btn btn-light" href="auto-repair-after-hours-drop-off-templates.html">Open after-hours drop-off templates</a>
+        </article>
+        <article class="resource-card">
+          <span class="tag">Collision</span>
+          <h3>Collision repair estimate follow-up templates</h3>
+          <p>Insurer callback delays, supplement approvals, deductible objections, parts timing, and unsold estimate recovery for body shops.</p>
+          <a class="btn btn-light" href="collision-repair-estimate-follow-up-templates.html">Open collision templates</a>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap grid-2">
+      <article class="card">
+        <span class="tag">Best audience</span>
+        <h3>Who this hub targets</h3>
+        <ul>
+          <li>Independent mechanics and general repair shops juggling calls, texts, and front-desk overflow.</li>
+          <li>Multi-bay service centers with advisors managing large reminder, approval, and pickup volume.</li>
+          <li>Collision shops where estimate follow-up and insurer delay messaging create long callback chains.</li>
+          <li>Partners, directories, consultants, and newsletters that want one clean resource URL instead of fifteen niche links.</li>
+        </ul>
+      </article>
+      <article class="card">
+        <span class="tag">Best channels</span>
+        <h3>Where this should spread</h3>
+        <ul>
+          <li>Local SEO pages and niche comparison pages covering auto repair phone workflows.</li>
+          <li>Shop-management, service-advisor, and collision-operator communities that already trade messaging templates.</li>
+          <li>Vendor partner resource hubs for CRM, reminder, DVI, payment, and scheduling tools.</li>
+          <li>Tool directories and startup galleries that prefer one category page over many narrow pages.</li>
+        </ul>
+      </article>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <h2>Intent map for internal linking and future expansion</h2>
+      <p class="section-lead">This library also acts as the organizing layer for future long-tail pages. Instead of publishing isolated template pages forever, new auto repair assets can land here first, then feed out to the most specific use-case pages and back into the calculator.</p>
+      <div class="signal-grid">
+        <article class="card">
+          <span class="tag">High-frequency pain</span>
+          <div class="signal-row"><strong>Missed inbound demand</strong><span>Calculator + voicemail + after-hours</span></div>
+          <div class="signal-row"><strong>Deferred revenue</strong><span>Declined work + financing + estimate follow-up</span></div>
+          <div class="signal-row"><strong>Retention / reactivation</strong><span>Service reminders + membership + warranty</span></div>
+        </article>
+        <article class="card">
+          <span class="tag">Operational pain</span>
+          <div class="signal-row"><strong>Status confusion</strong><span>Repair-status + diagnostic updates</span></div>
+          <div class="signal-row"><strong>Approval bottlenecks</strong><span>Authorization and signoff follow-up</span></div>
+          <div class="signal-row"><strong>Pickup / payment lag</strong><span>Pickup-ready + payment-ready texts</span></div>
+        </article>
+        <article class="card">
+          <span class="tag">Expansion edges</span>
+          <div class="signal-row"><strong>Auto body / collision</strong><span>Estimate recovery and insurer handoff</span></div>
+          <div class="signal-row"><strong>Fleet / commercial</strong><span>Future maintenance approval and dispatch pages</span></div>
+          <div class="signal-row"><strong>Advisor workflow demos</strong><span>Future queue, dashboard, or intake surfaces</span></div>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap callout">
+      <div class="eyebrow">Bridge into the paid offer</div>
+      <h3 style="font-size:2rem; margin-bottom:12px;">When this library stops being enough</h3>
+      <p class="subhead" style="max-width:none;">If advisors are copying scripts into notes, reminders are firing inconsistently, missed calls still die in voicemail, and approvals or pickup reminders depend on whoever remembered to send the text, the real bottleneck is no longer wording. It is workflow coverage. That is where the AI voice agent calculator and a custom rollout plan become the next logical step.</p>
+      <div class="cta-row">
+        <a class="btn btn-primary" href="auto-repair-missed-call-calculator.html">Run the auto repair ROI math</a>
+        <a class="btn btn-secondary" href="mailto:leads@operator.fyi?subject=Auto%20Repair%20Template%20Library%20Rollout&body=Send%20me%20the%20auto%20repair%20workflow%20rollout%20plan%20based%20on%20the%20template%20library.%0A%0AShop%20name%3A%0ACity%3A%0AWhich%20workflows%20break%20most%20often%3F%20%28voicemail%2C%20service%20reminders%2C%20declined%20work%2C%20approvals%2C%20pickup%2C%20collision%29%0AHow%20many%20customer%20touchpoints%20per%20day%20depend%20on%20manual%20follow-up%3F%0A">Request a rollout plan</a>
+      </div>
+    </div>
+  </section>
+
+  <footer class="footer wrap">
+    Auto Repair Template Library • Compounding inbound asset for independent shops and service centers • Built for Brent Akamine / Operator • <a href="auto-repair-missed-call-calculator.html">Auto repair ROI calculator</a> • <a href="voice-agent-calculator-directory.html">Voice agent calculator directory</a>
+  </footer>
+</body>
+</html>

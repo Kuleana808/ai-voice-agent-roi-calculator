@@ -46,6 +46,7 @@ Warm inbound leads via prefilled `mailto:` CTA to `leads@operator.fyi`.
 - `ai-answering-service-vs-live-receptionist.html` — comparison page for owners choosing between AI answering coverage, live receptionists, and hybrid front-desk models before running the ROI math
 - `plumber-missed-call-calculator.html` — plumber-specific SEO landing page using the calculator framework
 - `hvac-missed-call-calculator.html` — HVAC-specific SEO landing page using the calculator framework
+- `hvac-after-hours-call-templates.html` — HVAC-specific template library for no-cool/no-heat callbacks, weekend voicemail, overflow dispatch follow-up, install-estimate rescue, and next-morning save copy that routes readers into the calculator
 - `dental-missed-call-calculator.html` — dental-specific SEO landing page using the calculator framework
 - `pediatric-dentistry-call-conversion-calculator.html` — pediatric-dentistry-specific SEO landing page for new-patient calls, insurance questions, recall callbacks, and urgent tooth-pain lead recovery
 - `pediatric-dental-appointment-reminder-templates.html` — pediatric-dentistry-specific template library for appointment confirmations, sedation-prep reminders, insurance checks, voicemail fallback, and recall reschedule copy that routes readers into the calculator
@@ -62,6 +63,7 @@ Warm inbound leads via prefilled `mailto:` CTA to `leads@operator.fyi`.
 - `endodontics-emergency-call-calculator.html` — endodontics-specific SEO landing page for root-canal requests, cracked-tooth emergencies, post-op pain calls, and referring-dentist callbacks
 - `oral-pathology-referral-intake-calculator.html` — oral-pathology-specific SEO landing page for biopsy consults, suspicious lesion evaluations, mucosal-disease workups, and referring-dentist callbacks
 - `med-spa-missed-call-calculator.html` — med-spa-specific SEO landing page using the calculator framework
+- `med-spa-booking-recovery-templates.html` — med-spa-specific template library for no-show follow-up, deposit reminders, failed-card updates, membership-payment recovery, and consult reschedule copy that routes readers into the calculator
 - `electrician-after-hours-lead-calculator.html` — electrician-specific SEO landing page using the calculator framework
 - `auto-repair-missed-call-calculator.html` — auto-repair-shop-specific SEO landing page using the calculator framework
 - `collision-repair-estimate-follow-up-templates.html` — collision-repair-specific template library for unsold estimates, insurer callback delays, supplement approvals, deductible hesitation, parts delays, and pickup coordination that routes readers into the calculator
@@ -75,7 +77,10 @@ Warm inbound leads via prefilled `mailto:` CTA to `leads@operator.fyi`.
 - `auto-repair-pickup-ready-notification-templates.html` — auto-repair-specific template library for final release timing, cashier handoff, payment-ready reminders, and same-day pickup coordination that routes readers into the calculator
 - `auto-repair-payment-ready-text-templates.html` — auto-repair-specific template library for invoice link follow-up, deposit reminders, declined-card recovery, and release-ready payment coordination that routes readers into the calculator
 - `auto-repair-estimate-reminder-templates.html` — auto-repair-specific template library for unsold estimates, parts approval deadlines, service-advisor callback recovery, and quote-follow-up rescue that routes readers into the calculator
+- `auto-repair-financing-follow-up-templates.html` — auto-repair-specific template library for payment-plan objections, lender callbacks, deposit rescue, and budget-path recovery that routes readers into the calculator
+- `auto-repair-after-hours-drop-off-templates.html` — auto-repair-specific template library for key lockbox handoffs, tow-in intake, overnight vehicle arrivals, and morning callback recovery that routes readers into the calculator
 - `garage-door-missed-call-calculator.html` — garage-door-company-specific SEO landing page using the calculator framework
+- `locksmith-after-hours-call-templates.html` — locksmith-specific template library for lockout callback texts, roadside unlock follow-up, missed-call voicemail, rekey triage, and next-morning dispatch recovery that routes readers into the calculator
 - `roofing-missed-call-calculator.html` — roofing-company-specific SEO landing page using the calculator framework
 - `pest-control-missed-call-calculator.html` — pest-control-company-specific SEO landing page using the calculator framework
 - `veterinary-missed-call-calculator.html` — veterinary-clinic-specific SEO landing page using the calculator framework
@@ -85,6 +90,12 @@ Warm inbound leads via prefilled `mailto:` CTA to `leads@operator.fyi`.
 - `chiropractic-new-patient-intake-calculator.html` — chiropractic-specific SEO landing page using the calculator framework
 - `ophthalmology-lead-response-calculator.html` — ophthalmology-specific SEO landing page using the calculator framework
 - `orthodontics-consult-response-calculator.html` — orthodontics-specific SEO landing page using the calculator framework
+- `orthodontic-appointment-reminder-templates.html` — orthodontic-specific template library for consult confirmations, parent reminders, records prep, retainer-emergency callbacks, and no-show recovery that routes readers into the calculator
+- `orthodontic-treatment-plan-acceptance-scripts.html` — orthodontic-specific template library for unscheduled starts, financing objections, parent decision delays, insurance questions, and treatment-start reactivation that routes readers into the calculator
+- `orthodontic-retainer-repair-triage-scripts.html` — orthodontic-specific template library for after-hours retainer emergencies, broken-wire callbacks, lost-retainer texts, photo triage, and same-day relief scheduling that routes readers into the calculator
+- `orthodontic-debond-retention-follow-up-scripts.html` — orthodontic-specific template library for debond scheduling, retainer check-ins, post-debond compliance, lost-retainer follow-up, and lapsed retention reactivation that routes readers into the calculator
+- `orthodontic-insurance-verification-scripts.html` — orthodontic-specific template library for new-start benefits checks, lifetime-maximum callbacks, transfer-case coverage follow-up, financing handoffs, and after-hours insurance voicemail triage that routes readers into the calculator
+- `orthodontic-transfer-patient-intake-scripts.html` — orthodontic-specific template library for transfer patient intake, prior-office records requests, treatment takeover callbacks, insurance-transfer questions, and start-of-care handoff follow-up that routes readers into the calculator
 - `audiology-hearing-aid-consult-calculator.html` — audiology-specific SEO landing page for hearing-test inquiries, hearing aid consults, insurance-benefit questions, and referral callbacks
 - `hearing-test-appointment-reminder-templates.html` — audiology-specific template library for hearing-test confirmations, no-show reduction, insurance-prep reminders, voicemail fallback, and reschedule copy that routes readers into the calculator
 - `dermatology-consult-response-calculator.html` — dermatology-specific SEO landing page using the calculator framework

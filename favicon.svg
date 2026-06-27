@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Operator voice agent favicon">
+  <rect width="64" height="64" rx="16" fill="#081120"/>
+  <path d="M20 44V20h10.5c8.6 0 13.5 4.3 13.5 12s-4.9 12-13.5 12H20Zm7-6h3.1c4.8 0 7.3-2 7.3-6s-2.5-6-7.3-6H27v12Z" fill="#6ee7f9"/>
+  <path d="M47 19c-1.8 0-3.2 1.4-3.2 3.2S45.2 25.4 47 25.4s3.2-1.4 3.2-3.2S48.8 19 47 19Zm0 19.6c-1.8 0-3.2 1.4-3.2 3.2S45.2 45 47 45s3.2-1.4 3.2-3.2-1.4-3.2-3.2-3.2Z" fill="#2563eb"/>
+</svg>
